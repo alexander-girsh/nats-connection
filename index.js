@@ -360,5 +360,7 @@ export const tests = {
     createOneAsyncRequestToNats
 }
 
+export default nats
+
 
 
