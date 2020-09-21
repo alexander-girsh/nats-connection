@@ -1,6 +1,6 @@
 {
   "name": "nats-connection",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a simple wrapper which implements the request/response functionality over the 'nats' npm package ",
   "main": "index.js",
   "dependencies": {
