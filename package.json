@@ -1,0 +1,26 @@
+{
+  "name": "nats-connection",
+  "version": "1.0.0",
+  "description": "a simple wrapper which implements the request/response functionality over the 'nats' npm package ",
+  "main": "index.js",
+  "dependencies": {
+    "nats": "^1.4.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noguilty4you/nats-connection.git"
+  },
+  "keywords": [
+    "nats",
+    "pub/sub"
+  ],
+  "author": "noguilty4you",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noguilty4you/nats-connection/issues"
+  },
+  "homepage": "https://github.com/noguilty4you/nats-connection#readme"
+}
