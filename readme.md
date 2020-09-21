@@ -3,12 +3,26 @@ nats-connection
 It is the simple wrapper for 'nats' npm-package which implements the request/response functionality
 
 
-Example
+Installation
+---
+NPM
+```
+npm install https://github.com/noguilty4you/nats-connection
+```
 
+YARN
+```
+yarn add https://github.com/noguilty4you/nats-connection
+```
+
+
+Usage
+---
 ```
 /** 
  * Client will connect automatically when its imported. 
  * All you need is provide the connection credentials using the process.env.
+ * 
  * process.env.NATS_HOST, 
  * process.env.NATS_PORT,
  * process.env.NATS_USER,
