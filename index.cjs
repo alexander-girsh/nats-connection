@@ -16,7 +16,7 @@
 
 
 
-const {config} = require( './config.js')
+const {config} = require( './config.cjs')
 const NATS = require( 'nats')
 const util = require( 'util')
 /**
